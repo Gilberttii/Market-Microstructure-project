@@ -1,0 +1,161 @@
+00:01:15 INFO main: starting in testnet mode | symbols=['BTC/USDT', 'ETH/USDT']
+00:01:15 INFO main: dashboard: Streamlit monitor launching -> http://localhost:8501 (set DASHBOARD=0 to disable)
+00:01:16 INFO main: data feed: MAINNET (real, read-only) | orders: demo (paper)
+00:01:16 INFO broker: CcxtBroker paper venue=demo | spot endpoint=https://demo-api.binance.com/api/v3
+00:01:16 INFO main: testnet mode: live CcxtBroker venue=demo (orders WILL be placed on the demo paper account)
+00:01:16 INFO main: testnet running — Ctrl-C to stop
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://172.19.208.188:8502
+
+2026-06-06 00:01:29.200 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:31.189 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:33.188 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:35.191 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:37.195 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:39.190 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:41.209 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:43.189 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:45.189 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:47.188 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:47.927 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:49.974 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:51.973 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:53.974 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:55.973 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:57.977 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:01:59.977 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:02:02.802 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:02:04.101 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:02:06.803 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:02:08.800 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:02:10.802 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-06 00:02:11.973 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+00:06:14 CRITICAL control: KILL SWITCH engaged from dashboard — halting + canceling orders
+00:06:14 WARNING control: kill switch: canceled 0 resting order(s)
+00:06:14 CRITICAL engine: ENGINE HALTED — human intervention required
+00:06:14 INFO regime: BTC/USDT regime -> RANGING (z=-0.61 vol=0.0003)
+00:06:14 INFO regime: ETH/USDT regime -> RANGING (z=-0.92 vol=0.0008)
+00:06:34 INFO regime: BTC/USDT regime -> TRENDING (z=4.26 vol=0.0006)
+00:06:34 INFO strategy: BTC/USDT momentum signal SELL mag=0.45 @ 60390.29 (TRENDING)
+00:06:34 INFO regime: ETH/USDT regime -> TRENDING (z=2.68 vol=0.0009)
+00:06:34 INFO strategy: ETH/USDT momentum signal SELL mag=0.51 @ 1578.22 (TRENDING)
+00:07:36 INFO regime: ETH/USDT regime -> RANGING (z=0.68 vol=0.0009)
+00:07:46 INFO regime: BTC/USDT regime -> RANGING (z=0.19 vol=0.0008)
+00:07:46 INFO regime: ETH/USDT regime -> TRENDING (z=-1.00 vol=0.0010)
+00:07:46 INFO strategy: ETH/USDT momentum signal SELL mag=0.51 @ 1573.05 (TRENDING)
+00:07:56 INFO regime: ETH/USDT regime -> RANGING (z=-0.78 vol=0.0010)
+00:08:16 INFO regime: ETH/USDT regime -> TRENDING (z=-1.83 vol=0.0010)
+00:08:47 INFO strategy: ETH/USDT momentum signal SELL mag=0.76 @ 1567.45 (TRENDING)
+00:08:57 INFO regime: BTC/USDT regime -> TRENDING (z=-1.05 vol=0.0008)
+00:08:57 INFO strategy: BTC/USDT momentum signal SELL mag=0.52 @ 60167.51 (TRENDING)
+00:09:38 INFO regime: BTC/USDT regime -> RANGING (z=-1.00 vol=0.0008)
+00:09:48 INFO regime: BTC/USDT regime -> TRENDING (z=-1.07 vol=0.0008)
+00:09:48 INFO strategy: ETH/USDT momentum signal SELL mag=1.00 @ 1564.01 (TRENDING)
+00:09:59 INFO strategy: BTC/USDT momentum signal SELL mag=0.64 @ 60052.48 (TRENDING)
+00:10:29 INFO regime: BTC/USDT regime -> RANGING (z=-0.76 vol=0.0009)
+00:10:50 INFO regime: BTC/USDT regime -> TRENDING (z=-1.27 vol=0.0009)
+00:10:50 INFO strategy: ETH/USDT momentum signal SELL mag=1.00 @ 1556.95 (TRENDING)
+00:11:00 INFO strategy: BTC/USDT momentum signal SELL mag=0.70 @ 59951.26 (TRENDING)
+00:11:51 INFO strategy: ETH/USDT momentum signal SELL mag=1.00 @ 1552.20 (TRENDING)
+00:12:01 INFO strategy: BTC/USDT momentum signal SELL mag=0.87 @ 59850.07 (TRENDING)
+00:12:22 INFO regime: BTC/USDT regime -> RANGING (z=-0.92 vol=0.0009)
+00:12:32 INFO regime: ETH/USDT regime -> RANGING (z=-0.07 vol=0.0016)
+00:12:42 INFO regime: BTC/USDT regime -> TRENDING (z=1.01 vol=0.0011)
+00:13:02 INFO strategy: BTC/USDT momentum signal SELL mag=0.46 @ 60293.44 (TRENDING)
+00:13:13 INFO regime: ETH/USDT regime -> TRENDING (z=1.07 vol=0.0017)
+00:13:13 INFO strategy: ETH/USDT momentum signal SELL mag=0.91 @ 1566.26 (TRENDING)
